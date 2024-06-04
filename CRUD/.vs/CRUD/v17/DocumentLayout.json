@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\C#\\CRUD\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D090-7DF6-4D0A-B166-94E6D517CB04}|CRUDWeb\\CRUDWeb.csproj|d:\\programming\\c#\\crud\\crud\\crudweb\\views\\list\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D090-7DF6-4D0A-B166-94E6D517CB04}|CRUDWeb\\CRUDWeb.csproj|solutionrelative:crudweb\\views\\list\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D090-7DF6-4D0A-B166-94E6D517CB04}|CRUDWeb\\CRUDWeb.csproj|d:\\programming\\c#\\crud\\crud\\crudweb\\views\\list\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D090-7DF6-4D0A-B166-94E6D517CB04}|CRUDWeb\\CRUDWeb.csproj|solutionrelative:crudweb\\views\\list\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D090-7DF6-4D0A-B166-94E6D517CB04}|CRUDWeb\\CRUDWeb.csproj|d:\\programming\\c#\\crud\\crud\\crudweb\\views\\list\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D090-7DF6-4D0A-B166-94E6D517CB04}|CRUDWeb\\CRUDWeb.csproj|solutionrelative:crudweb\\views\\list\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D090-7DF6-4D0A-B166-94E6D517CB04}|CRUDWeb\\CRUDWeb.csproj|d:\\programming\\c#\\crud\\crud\\crudweb\\controllers\\listcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9D090-7DF6-4D0A-B166-94E6D517CB04}|CRUDWeb\\CRUDWeb.csproj|solutionrelative:crudweb\\controllers\\listcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9D090-7DF6-4D0A-B166-94E6D517CB04}|CRUDWeb\\CRUDWeb.csproj|d:\\programming\\c#\\crud\\crud\\crudweb\\views\\list\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6E9D090-7DF6-4D0A-B166-94E6D517CB04}|CRUDWeb\\CRUDWeb.csproj|solutionrelative:crudweb\\views\\list\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Programming\\C#\\CRUD\\CRUD\\CRUDWeb\\Views\\List\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUDWeb\\Views\\List\\Edit.cshtml",
+              "ToolTip": "D:\\Programming\\C#\\CRUD\\CRUD\\CRUDWeb\\Views\\List\\Edit.cshtml",
+              "RelativeToolTip": "CRUDWeb\\Views\\List\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T20:20:36.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Programming\\C#\\CRUD\\CRUD\\CRUDWeb\\Views\\List\\Add.cshtml",
+              "RelativeDocumentMoniker": "CRUDWeb\\Views\\List\\Add.cshtml",
+              "ToolTip": "D:\\Programming\\C#\\CRUD\\CRUD\\CRUDWeb\\Views\\List\\Add.cshtml",
+              "RelativeToolTip": "CRUDWeb\\Views\\List\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T20:20:33.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Programming\\C#\\CRUD\\CRUD\\CRUDWeb\\Views\\List\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDWeb\\Views\\List\\Index.cshtml",
+              "ToolTip": "D:\\Programming\\C#\\CRUD\\CRUD\\CRUDWeb\\Views\\List\\Index.cshtml",
+              "RelativeToolTip": "CRUDWeb\\Views\\List\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T20:15:13.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Programming\\C#\\CRUD\\CRUD\\CRUDWeb\\Views\\List\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUDWeb\\Views\\List\\Delete.cshtml",
+              "ToolTip": "D:\\Programming\\C#\\CRUD\\CRUD\\CRUDWeb\\Views\\List\\Delete.cshtml",
+              "RelativeToolTip": "CRUDWeb\\Views\\List\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T20:13:46.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListController.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\CRUD\\CRUD\\CRUDWeb\\Controllers\\ListController.cs",
+              "RelativeDocumentMoniker": "CRUDWeb\\Controllers\\ListController.cs",
+              "ToolTip": "D:\\Programming\\C#\\CRUD\\CRUD\\CRUDWeb\\Controllers\\ListController.cs",
+              "RelativeToolTip": "CRUDWeb\\Controllers\\ListController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:32:51.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+﻿@model IEnumerable<List>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h1 class="text-primary">List</h1>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="List" asp-action="Add" class="btn btn-primary text-end"><i class="bi bi-plus-square"> Add New</i></a>
+        </div>
+    </div>
+</div>
+
+<table class="table table-bordered" style="width:100%">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Description
+            </th>
+            <th>
+                Time created
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var obj in Model)
+        {
+            <tr>
+                <td style="width:30%">
+                    @obj.Name
+                </td>
+                <td style="width:30%">
+                    @obj.Description
+                </td>
+                <td style="width:30%">
+                    @obj.Created
+                </td>
+                <td>
+                    <div clas="btn-group">
+                        <a asp-controller="List" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-info"><i class="bi bi-pencil-square"></i></a>
+                        <a asp-controller="List" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger"><i class="bi bi-trash3"></i></a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
